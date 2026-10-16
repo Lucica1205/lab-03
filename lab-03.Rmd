@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 – Critical-Responsible Use of GenAI for Data Science"
-author: "True or False : LUcica, User2, Xile Wang, User4"
+author: "True or False : LUcica, Xiliang Wang, Xile Wang, User4"
 date: "`r Sys.Date()`"
 output: html_document
 ---
